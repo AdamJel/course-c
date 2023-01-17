@@ -76,3 +76,64 @@ you use the compiler, try to find the errors only by manual code analysis.
 ```text
 The value of six is: 6
 ```
+
+## Lab 04: Just numbers part 3
+
+### Level of difficulty
+
+Easy
+
+### Objectives
+
+Familiarize the student with:
+
+- Fixing errors in a program
+- Integer numbers
+- Printing on screen
+
+### Scenario
+
+Check the program in the editor. Find all possible compilation errors and logic errors.
+Fix them.
+
+Your version of the program must print the same result as the expected output. Before
+you use the compiler, try to find the errors only by manual code analysis.
+
+### Expected output
+
+```text
+The value of seven is: 7
+The value of eight is: 8
+```
+
+## Lab 05: Just numbers part 4
+
+### Level of difficulty
+
+Easy
+
+### Objectives
+
+Familiarize the student with:
+
+- Fixing errors in a program
+- Integer numbers
+- Base 8 numbers
+- Printing on screen
+
+### Scenario
+
+Check the program in the editor. Find all possible compilation errors and logic errors.
+Fix them.
+
+Your version of the program must print the same result as the expected output. Before
+you use the compiler, try to find the errors only by manual code analysis.
+
+Use octal (base 8) numbers.
+
+### Expected output
+
+```text
+The value of nine is: 9
+The value of ten is: 10
+```
