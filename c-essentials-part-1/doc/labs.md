@@ -170,3 +170,35 @@ The value of twenty-two is: 22
 The value of sixty-two is: 62
 The value of seventy-four is: 74
 ```
+
+## Lab 07: Variables part 1
+
+### Level of difficulty
+
+Easy
+
+### Objectives
+
+Familiarize the student with:
+
+- Fixing errors in a program
+- Variable names
+- Integer numbers
+- Printing on screen
+
+### Scenario
+
+Check the program in the editor. Find all possible compilation errors and logic errors.
+Fix them.
+
+Your version of the program must print the same result as the expected output. Before
+you use the compiler, try to find the errors only by manual code analysis.
+
+If you want to improve the variable names, then do so, but remember that variable names
+have to be as descriptive as possible, and also as short as possible.
+
+### Expected output
+
+```text
+The value of ten is: 10
+```
